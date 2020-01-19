@@ -1,0 +1,3 @@
+[submodule "flutter-intro"]
+	path = flutter-intro
+	url = https://github.com/martinloesethjensen/flutter-intro.git
