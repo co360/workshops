@@ -1,5 +1,3 @@
 # workshops
 
-## [Introduction to Flutter](https://martinjensen.tech/flutter-intro/)
-
-Get started with Flutter and build a simple Todo App.
+**[Introduction to Flutter: Build a Simple Todo App](https://martinjensen.tech/flutter-intro/)**
