@@ -1,3 +1,6 @@
 [submodule "flutter-intro"]
 	path = flutter-intro
 	url = https://github.com/martinloesethjensen/flutter-intro.git
+[submodule "flutter-firebase"]
+	path = flutter-firebase
+	url = https://github.com/martinloesethjensen/flutter-firebase.git
